@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @onnoverschuuren
-- 👀 I’m interested in .NET programming mainly in VB.NET
+- 👀 I’m interested in .NET programming
 - 🌱 I’m currently learning Digital Green Certificate
 - 💞️ I’m looking to collaborate on Crypto
 - 📫 github@verschuuren.net
