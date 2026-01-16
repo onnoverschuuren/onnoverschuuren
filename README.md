@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onnoverschuuren
 - 👀 I’m interested in .NET programming
-- 📫 github@verschuuren.net
+- 📫 onno@verschuuren.net
 
 <!---
 onnoverschuuren/onnoverschuuren is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
